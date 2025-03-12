@@ -1,0 +1,1 @@
+This Power BI dashboard provides an interactive analysis of employee performance using key HR metrics. The visualizations offer insights into employee satisfaction, salary distribution, attrition rates, job roles, and overall workforce trends to support data-driven HR decision-making.
